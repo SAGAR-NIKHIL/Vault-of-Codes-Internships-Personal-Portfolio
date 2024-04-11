@@ -24,8 +24,7 @@ Dive into the sleek world of modern web development with this login and signup f
 Project 2: Spinner Loader Animation
 Experience the dynamic loading effect with this visually stunning loader animation. Crafted using CSS keyframes, it adds a touch of elegance to web applications, providing users with captivating visual feedback. Discover Project 2
 
-Contact Information
-Email: nikhilsagar2382004@gmail.com
+
 LinkedIn: Your LinkedIn Profile
 GitHub: Your GitHub Profile
 Feel free to reach out to me via email or connect with me on LinkedIn or GitHub!
